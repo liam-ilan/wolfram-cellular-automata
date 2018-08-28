@@ -1,0 +1,22 @@
+{
+  "name": "wolfram-cellular-automata",
+  "version": "1.0.0",
+  "description": "Wolfram's cellular automata in node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "./node_modules/.bin/eslint ./index.js --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://liamIlan@bitbucket.org/liamIlan/wolfram-cellular-automata.git"
+  },
+  "author": "Liam Ilan",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/liamIlan/wolfram-cellular-automata#readme",
+  "devDependencies": {
+    "eslint": "^5.4.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
