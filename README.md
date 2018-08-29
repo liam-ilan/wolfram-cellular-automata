@@ -13,7 +13,7 @@ This is an implementation of this system in node.
 First clone the repo by using:
 
 ```bash
-$ git clone https://liamIlan@bitbucket.org/liamIlan/wolfram-cellular-automata.git
+$ git clone https://liamilan@bitbucket.org/liamilan/wolfram-cellular-automata.git
 ```
 
 Then Initialize NPM inside the directory using:
@@ -24,14 +24,17 @@ $ npm init
 
 To run the project, enter the directory, and then use:
 
+```bash
+$ node index.js 18
+```
+or:
 
 ```bash
-$ node index.js (rule number between 0 to 255)
+$ node index.js {rule number between 0 to 255}
 ```
 
-
-
-Use this link to find interesting rules:
-
-
+Interesting rules:
 https://plato.stanford.edu/entries/cellular-automata/supplement.html
+
+
+
