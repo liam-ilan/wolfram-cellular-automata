@@ -9,11 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://liamIlan@bitbucket.org/liamIlan/wolfram-cellular-automata.git"
+    "url": "https://liamilan@bitbucket.org/liamilan/wolfram-cellular-automata.git"
   },
   "author": "Liam Ilan",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/liamIlan/wolfram-cellular-automata#readme",
+  "homepage": "https://bitbucket.org/liamilan/wolfram-cellular-automata",
   "devDependencies": {
     "eslint": "^5.4.0",
     "eslint-config-airbnb-base": "^13.1.0",
