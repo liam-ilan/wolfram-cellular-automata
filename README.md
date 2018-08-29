@@ -16,12 +16,6 @@ First clone the repo by using:
 $ git clone https://liamilan@bitbucket.org/liamilan/wolfram-cellular-automata.git
 ```
 
-Then Initialize NPM inside the directory using:
-
-```bash
-$ npm init
-```
-
 To run the project, enter the directory, and then use:
 
 ```bash
@@ -37,4 +31,16 @@ Interesting rules:
 https://plato.stanford.edu/entries/cellular-automata/supplement.html
 
 
+## Development
 
+Initialize inside the directory using:
+
+```bash
+$ npm init
+```
+
+To run eslint use:
+
+```bash
+$ npm run lint
+```
