@@ -2,7 +2,7 @@
 ### By Liam Ilan
 
 
-Wolfram's Cellular Automata is a form of 1 dimensional cellular automata in witch all possible rules are encoded into one byte as described here:
+Wolfram's Cellular Automata is a form of 1 dimensional cellular automata in which all possible rules are encoded into one byte as described here:
 http://mathworld.wolfram.com/CellularAutomaton.html
 
 This is an implementation of this system in node.
