@@ -7,6 +7,7 @@ function zeroFill(n, s) {
   const str = zeros + s;
   return str;
 }
+
 function evolve(arr, rules) {
   let ruleSet = [];
   ruleSet = zeroFill(8, rules.toString(2))
